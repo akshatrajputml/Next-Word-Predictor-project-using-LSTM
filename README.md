@@ -71,7 +71,8 @@ python app.py
 
 ## 📸 Project Demo
 
-(Add screenshot here)
+(<img width="1669" height="621" alt="Screenshot 2026-05-25 181536" src="https://github.com/user-attachments/assets/43f940e1-a5de-4f83-b561-28baf8ec9011" />
+)
 
 ---
 
@@ -100,5 +101,5 @@ python app.py
 
 Akshat Rajput
 
-LinkedIn: [Add Link]
-GitHub: [Add Link]
+LinkedIn: [www.linkedin.com/in/akshat-rajput-494378399]
+
